@@ -1,0 +1,10 @@
+{
+    "json.schemas": [
+        {
+            "fileMatch": [
+                "/authors/**"
+            ],
+            "url": "../wankershop/.astro/collections/authors.schema.json"
+        }
+    ]
+}

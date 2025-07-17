@@ -1,0 +1,35 @@
+{
+    "name": "Oouyuki Benten",
+    "social": [
+        {
+            "type": "twitter",
+            "href": "https://twitter.com/oouyuki"
+        },
+        {
+            "type": "itaku",
+            "href": "https://itaku.ee/profile/oouyuki"
+        },
+        {
+            "type": "furaffinity",
+            "href": "https://www.furaffinity.net/user/danboyya2000/"
+        },
+        {
+            "type": "inkbunny",
+            "href": "https://inkbunny.net/Oouyuki"
+        }
+    ],
+    "support": [
+        {
+            "type": "patreon",
+            "href": "https://www.patreon.com/oouyuki"
+        },
+        {
+            "type": "fanbox",
+            "href": "https://oouyuki.fanbox.cc/"
+        },
+        {
+            "type": "itch",
+            "href": "https://oouyuki.itch.io/"
+        }
+    ]
+}

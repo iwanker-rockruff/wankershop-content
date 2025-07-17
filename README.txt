@@ -1,0 +1,1 @@
+This is the comic data gallery for the Wankershop.
