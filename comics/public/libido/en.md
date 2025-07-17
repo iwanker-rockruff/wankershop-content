@@ -19,7 +19,6 @@ languages:
     translated: EN
     original: ZH_TW
 ---
-
 @comic = /api/comic/public/libido/en
 
 ![Cover](comic://0.png)
