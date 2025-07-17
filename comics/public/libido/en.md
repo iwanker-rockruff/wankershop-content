@@ -21,6 +21,8 @@ languages:
 ---
 @comic = /api/comic/public/libido/en
 
+Testing ISR...
+
 ![Cover](comic://0.png)
 ![Page 1](comic://1.png)
 ![Page 2](comic://2.png)
